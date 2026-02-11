@@ -22,10 +22,13 @@ you are done with your submission.
 - Wyatt’s note: This was very straight forward as I have used git
   multiple times.
 
-- Jensen: This is a line from Rstudio
+- Jensen: This is my first time using git so I am pretty confused.
 
 \##step 12.4
 
 - Wyatt’s note: This part is the same logic as using a git terminal. I
   just dont have to type the commands, just have to get used to pushing
   the buttons.
+
+- Jensen: This is a line from RStudio. This was very educational on how
+  to use git.
