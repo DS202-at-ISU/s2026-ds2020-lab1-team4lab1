@@ -22,6 +22,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Wyatt's note: This was very straight forward as I have used git multiple times. 
 
+- Jensen: This is a line from Rstudio
+
 ##step 12.4
 
 - Wyatt's note: This part is the same logic as using a git terminal. 

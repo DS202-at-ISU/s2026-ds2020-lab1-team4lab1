@@ -22,6 +22,8 @@ you are done with your submission.
 - Wyatt’s note: This was very straight forward as I have used git
   multiple times.
 
+- Jensen: This is a line from Rstudio
+
 \##step 12.4
 
 - Wyatt’s note: This part is the same logic as using a git terminal. I
