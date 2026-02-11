@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/c45zDV1M)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,14 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+\##step 12.3
+
+- Wyatt’s note: This was very straight forward as I have used git
+  multiple times.
+
+\##step 12.4
+
+- Wyatt’s note: This part is the same logic as using a git terminal. I
+  just dont have to type the commands, just have to get used to pushing
+  the buttons.
