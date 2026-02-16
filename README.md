@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-# Lab report \#1
+# Lab report \#1 hello
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -24,6 +24,11 @@ you are done with your submission.
 
 - Jensen: This is my first time using git so I am pretty confused.
 
+-Bhavika: This is new for me as well.
+
+- Yash: I have used Git before, but I have to get used to the interface
+  again as I haven’t used it in a while.
+
 \##step 12.4
 
 - Wyatt’s note: This part is the same logic as using a git terminal. I
@@ -32,3 +37,7 @@ you are done with your submission.
 
 - Jensen: This is a line from RStudio. This was very educational on how
   to use git.
+
+-Bhavika: This is a line from RStudio
+
+- Yash: This is a line from RStudio.
